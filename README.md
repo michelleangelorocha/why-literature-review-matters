@@ -1,5 +1,7 @@
 # Why the Literature Review Matters
 
+**English** · [Português](README.pt.md) · Español (coming soon)
+
 **What two years of slow reading taught me**
 
 Created by Dr. Michelle Angelo-Rocha · License: CC BY 4.0
