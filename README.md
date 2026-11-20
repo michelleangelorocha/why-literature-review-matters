@@ -18,6 +18,9 @@ That is why I now tell my students to read. It doesn't make sense at first. It m
 
 If reading feels slow, overwhelming, or pointless right now, that is normal. It is the first part of the path, not a sign you are doing it wrong. Every paper you read adds to a map that few people have. Over time, that map is what makes you the specialist in your topic: the person who knows what has been done, sees what is missing, and can explain why it matters.
 
+<img width="904" height="498" alt="image" src="https://github.com/user-attachments/assets/3f42f13c-2c9f-4b5b-b5d0-0ef6adbf01bb" />
+
+
 ## Reading builds like savings
 
 At first it feels like nothing is happening. Then it starts to compound.
