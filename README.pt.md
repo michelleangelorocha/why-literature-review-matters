@@ -24,7 +24,8 @@ Hoje, aquela leitura lenta influencia como eu leio, como desenho currículos e p
 
 Eu sei que é muita coisa. E pode parecer perda de tempo. Mas eu prometo: não é perda de tempo.
 
-<!-- Cole aqui a linha da sua imagem -->
+<img width="1472" height="736" alt="image" src="https://github.com/user-attachments/assets/a5b4b3fb-eced-456c-97e3-e56d32c56897" />
+
 
 ### A leitura rende como uma poupança
 
