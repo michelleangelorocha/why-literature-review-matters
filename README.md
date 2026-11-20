@@ -126,7 +126,7 @@ A one-week activity to introduce the literature review:
 
 ## Further reading
 
-- Boote, D. N., & Beile, P. (2005). Scholars before researchers: On the centrality of the dissertation literature review in research preparation. *Educational Researcher, 34*(6), 3–15.
+- Boote, D. N., & Beile, P. (2005). Scholars before researchers: On the centrality of the dissertation literature review in research preparation. *Educational Researcher, 34*(6), 3–15. https://doi.org/10.3102/0013189X034006003
 - Hart, C. (2018). *Doing a literature review: Releasing the research imagination* (2nd ed.). SAGE.
 
 - ## How to cite this guide
