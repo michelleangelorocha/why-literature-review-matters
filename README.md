@@ -48,7 +48,7 @@ class E goal
 
 Not every paper needs a deep read.
 
-1. **Skim (about 15 minutes):** read the abstract, introduction, figures, and conclusion. Decide where the paper fits.
+1. **Skim (about 15 minutes):** read the abstract, introduction, figures, methodology, results, and conclusion. Decide where the paper fits.
 2. **Deep read:** save slow, careful reading for the few papers that matter most for what you are working on now.
 3. **Connect:** write one line about how the paper links to what you already know.
 
