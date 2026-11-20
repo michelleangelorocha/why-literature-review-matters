@@ -60,6 +60,8 @@ Keep one spreadsheet for every paper you read. Over time, it becomes your map.
 | --- | --- | --- | --- | --- | --- | --- |
 | Author (Year) | What the study asks | Design, sample, data | One or two sentences | Another paper or project | What is missing? | Paper, grant, class, talk |
 
+**[Download the literature review matrix](literature-review-matrix.csv)**
+
 ### How I teach my students to read
 
 - **Write a short summary of each reading** in one running document.
