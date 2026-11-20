@@ -10,13 +10,15 @@ Students often hear "read the literature" as a rule, not a reason. Reading one p
 
 ## My story
 
-Two years ago, I read more than 80 sources for a report on cybersecurity education programs. Many of those papers felt slow and boring. Some days I read just one.
+Two years ago, I led my first empirical research project on my own, a study of cybersecurity workforce programs. I had worked on research with others before, but this time I was the lead. I read more than 80 sources. The papers felt slow and challenging, written in a very academic way. Some days I read just one, and I felt frustrated. I had impostor syndrome. I kept asking myself why I couldn't read faster.
 
-Two years later, the connections started showing up everywhere. New papers made sense faster because I already had a map in my head. I could see what was missing in a field because I knew what was already there. Ideas for projects, grants, and papers came from that map.
+It was also my first time working with a research assistant. I was teaching her while I was still learning myself.
 
-That is why I now tell my students to read. It doesn't make sense at first. It makes sense when you start working in the field.
+Two years later, the connections started showing up everywhere. New papers made sense faster. People started inviting me into projects. Ideas came from what felt like nowhere, but they really came from those papers, case studies, and reports. I began to understand how programs are evaluated, which metrics are missing, and what we should measure when we create educational programs.
 
-If reading feels slow, overwhelming, or pointless right now, that is normal. It is the first part of the path, not a sign you are doing it wrong. Every paper you read adds to a map that few people have. Over time, that map is what makes you the specialist in your topic: the person who knows what has been done, sees what is missing, and can explain why it matters.
+Today, that slow reading shapes how I read, how I design curriculum and programs, how I evaluate them, and how I think ahead as a project manager. I would not have this knowledge without it. Reading, combined with hands-on practice, is what makes you a specialist in a topic. That is what worries me when people let AI read for them: they skip the slow process where the real learning happens.
+
+I know it's overwhelming. And it may feel like a waste of time. But I promise you, it's not a waste of time.
 
 <img width="904" height="498" alt="image" src="https://github.com/user-attachments/assets/3f42f13c-2c9f-4b5b-b5d0-0ef6adbf01bb" />
 
