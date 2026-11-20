@@ -61,7 +61,7 @@ Mantenha uma planilha com todos os artigos que você lê. Com o tempo, ela se to
 | --- | --- | --- | --- | --- | --- | --- |
 | Autor (Ano) | O que o estudo pergunta | Desenho, amostra, dados | Uma ou duas frases | Outro artigo ou projeto | O que está faltando? | Artigo, projeto, aula, palestra |
 
-**Baixe a matriz de revisão de literatura**
+**[Baixe a matriz de revisão de literatura](literature-review-matrix.csv)**
 
 ### Como ensino meus alunos a ler
 
